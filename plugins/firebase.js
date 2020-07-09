@@ -9,7 +9,7 @@ var firebaseConfig = {
   storageBucket: '',
   messagingSenderId: '',
   appId: '',
-  measurementId: 'G-YJ08BDS2QX'
+  measurementId: ''
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
